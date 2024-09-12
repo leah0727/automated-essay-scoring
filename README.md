@@ -11,3 +11,7 @@ Deep Learning for AI course (Instructor: Professor Ilyoup Kwak)
 - Applied EDA (easy data augmentation) techniques to address the imbalance but faced issues where syntactically or contextually incorrect sentences negatively impacted scoring. Switched to text augmentation techniques using WordNet-based synonym augmentation and round-trip translation, expanding the underrepresented classes by threefold.
 - Increased QWK from 0.81 to 0.91 in the DeBERTa regression model after applying data augmentation.
 - Skills: Python, Deep Learning, pandas, NumPy, Matplotlib, Seaborn, Pytorch, Tranformers, Hugging Face, Scikit-Learn, Google Colab, Natural Language Processing (NLP), Data augmentation, Torch optimizers and schedulers, file handling and data extraction
+  <br>
+  <p align="center">
+  <img width="1387" alt="thumbnail2" src="https://github.com/user-attachments/assets/337abe38-b3a2-46d3-9b28-31d5e910985f">
+</p>
