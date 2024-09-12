@@ -13,5 +13,7 @@ Deep Learning for AI course (Instructor: Professor Ilyoup Kwak)
 - Skills: Python, Deep Learning, pandas, NumPy, Matplotlib, Seaborn, Pytorch, Tranformers, Hugging Face, Scikit-Learn, Google Colab, Natural Language Processing (NLP), Data augmentation, Torch optimizers and schedulers, file handling and data extraction
   <br>
   <p align="center">
-  <img width="1387" alt="thumbnail2" src="https://github.com/user-attachments/assets/337abe38-b3a2-46d3-9b28-31d5e910985f">
+  <img width="1235" alt="스크린샷 2024-09-12 15 18 08" src="https://github.com/user-attachments/assets/432e81fd-a8b7-48c8-9b77-91153fbe4b3f">
+   <img width="1235" alt="스크린샷 2024-09-12 15 18 45" src="https://github.com/user-attachments/assets/98c2f2d0-a73e-4286-9d59-e8e5a9dc19fb">
+
 </p>
